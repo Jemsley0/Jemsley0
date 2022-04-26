@@ -7,6 +7,6 @@ At work, I focus on making custom data solutions for my clients that range from 
 * I use daily: `.py`, `.sql`
 * I use occasionally: `.R`, `.pbix`
 
-[![Josephs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemsley0)](https://github.com/anuraghazra/github-readme-stats)
+[![Josephs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemsley0&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemsley0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemsley0&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
